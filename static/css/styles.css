@@ -139,7 +139,6 @@ h5 {
     margin: 5% auto 3% auto;
 }
 
-
 /* Skills Section*/
 #skills {
     background-color: #696969;
@@ -343,7 +342,8 @@ h5 {
 }
 
 .copyright-dashboard {
-    margin: 3% 0 0 0;
+    margin: 3%;
+    padding-bottom: 2%;
     text-align: center;
     font-size: 1.3rem;
 }
